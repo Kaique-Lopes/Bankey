@@ -6,3 +6,14 @@
 //
 
 import Foundation
+import UIKit
+
+class LoginView: UIView {
+    
+}
+
+extension LoginView {
+    func style() {
+        translatesAutoresizingMaskIntoConstraints = false
+    }
+}
